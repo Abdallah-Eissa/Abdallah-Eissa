@@ -1,7 +1,6 @@
 ### Hello I`m Abdo Eissa 
 ### Nice To Meet You 👋
 
-C:\Users\giga byte\Downloads\thoughtworks-gif_dribbble.gif
 <!--
 **abdoeisa/abdoeisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
