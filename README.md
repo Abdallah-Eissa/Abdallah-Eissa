@@ -12,3 +12,5 @@
   <br>
   📚 I’m currently focusing on Data Science 
 </p>
+<hr>
+<a href="https://github.com/soumyajit4419/soumyajit4419/blob/master/thoughtworks-gif_dribbble.gif?raw=true"></a>
